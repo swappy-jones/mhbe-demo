@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">130dp</dimen>
+    <dimen name="activity_vertical_margin">12dp</dimen>
+
+    // Collapsing
+    <dimen name="top_head_height">280dp</dimen>
+    <dimen name="profile_inside_bg_height">120dp</dimen>
+
+    <dimen name="top_head_background_height">160dp</dimen>
+    <dimen name="default_collapsed_image_size">45dp</dimen>
+    <dimen name="default_expanded_image_size">135dp</dimen>
+    <dimen name="default_collapsed_text_size">4dp</dimen>
+    <dimen name="default_expanded_text_size">11dp</dimen>
+    <dimen name="default_collapsed_padding">200dp</dimen>
+    <dimen name="default_expanded_padding">0dp</dimen>
+
+    <dimen name="label_padding">2dp</dimen>
+    <dimen name="text_margin">@dimen/dp_two</dimen>
+    <dimen name="sp_fifteen">15sp</dimen>
+    <dimen name="dp_twelve">12dp</dimen>
+
+    <dimen name="dp_five">5dp</dimen>
+    <dimen name="dp_two">2dp</dimen>
+    <dimen name="dp_twenty_four">24dp</dimen>
+    <dimen name="sp_eighteen">18sp</dimen>
+    <dimen name="dp_thirty_five">35dp</dimen>
+
+    <dimen name="til_top_margin">5dp</dimen>
+    <dimen name="til_left_margin">5dp</dimen>
+    <dimen name="til_right_margin">5dp</dimen>
+    <dimen name="floating_hint_margin">8dp</dimen>
+    <dimen name="corners_edittext">16dp</dimen>
+    <dimen name="corners_tab">12dp</dimen>
+
+    <dimen name="button_margin">20dp</dimen>
+    <dimen name="min_button_height">48dp</dimen>
+    <dimen name="sp_twenty_four">24sp</dimen>
+    <dimen name="corners_button">4dp</dimen>
+    <dimen name="holo_corner_rounded">4dp</dimen>
+
+    <dimen name="small_padding">5dp</dimen>
+    <dimen name="large_padding">10dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="text_size">15dp</dimen>
+    <dimen name="image_size_width">70dp</dimen>
+    <dimen name="image_size_height">120dp</dimen>
+    <dimen name="back_arrow_width">50dp</dimen>
+    <dimen name="back_arrow_height">30dp</dimen>
+    <dimen name="header_height">56dp</dimen>
+    <dimen name="splash">200dp</dimen>
+    <dimen name="item_width">180dp</dimen>
+    <dimen name="item_height">180dp</dimen>
+    <dimen name="toggle_dim">50dp</dimen>
+    <dimen name="viewpager_height">350dp</dimen>
+    <dimen name="splash_book">180dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="padding_xl">40dp</dimen>
+    <dimen name="d_35">35dp</dimen>
+    <dimen name="sp20">20sp</dimen>
+    <dimen name="sp18">18sp</dimen>
+    <dimen name="sp25">25sp</dimen>
+    <dimen name="d26">26dp</dimen>
+    <dimen name="sp35">35sp</dimen>
+    <dimen name="sp15">15sp</dimen>
+    <dimen name="popup_width">500dp</dimen>
+    <dimen name="popup_height">500dp</dimen>
+    <dimen name="margin10">10dp</dimen>
+    <dimen name="result_trophy">80dp</dimen>
+    <dimen name="d5">5dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+    <dimen name="d15">15dp</dimen>
+    <dimen name="d20">20dp</dimen>
+    <dimen name="cross_button_dp">30dp</dimen>
+    <dimen name="notification_icon_count_dimen">20dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="margin_bottom_50">50</dimen>
+    <dimen name="d_18">18dp</dimen>
+    <dimen name="min_edittext_height">56dp</dimen>
+    <dimen name="d10">10dp</dimen>
+    <dimen name="form_margin">25dp</dimen>
+    <dimen name="dp_eight">8dp</dimen>
+    <dimen name="dp_thirty_six">36dp</dimen>
+    <dimen name="dp_fifteen">15dp</dimen>
+    <dimen name="dp_twenty">20dp</dimen>
+    <dimen name="dp_ten">10dp</dimen>
+    <dimen name="dp_fourty_eight">48dp</dimen>
+    <dimen name="dp_eighteen">18dp</dimen>
+    <dimen name="about_item_img_width">32dp</dimen>
+    <dimen name="about_item_img_height">32dp</dimen>
+    <dimen name="more_right_arrow_width">16dp</dimen>
+    <dimen name="more_right_arrow_height">16dp</dimen>
+    <dimen name="about_img_height">300dp</dimen>
+    <dimen name="image_width_100">28</dimen>
+    <dimen name="image_height_100">28dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="sp_twelve">12sp</dimen>
+    <dimen name="sp_fourteen">14sp</dimen>
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10sp</dimen>
+    <dimen name="font_l">13sp</dimen>
+    <dimen name="sp_thirty_six">36sp</dimen>
+    <dimen name="alert_summary_image_height">150dp</dimen>
+    <dimen name="sp_sixteen">16sp</dimen>
+    <dimen name="dp_four">4dp</dimen>
+    <dimen name="dp_twenty_eight">28dp</dimen>
+    <dimen name="sp_twenty">20sp</dimen>
+    <dimen name="dp_sixteen">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Shimmer dimensions -->
+    <dimen name="shimmer_text_title">100dp</dimen>
+    <dimen name="shimmer_text_description_line_1">120dp</dimen>
+    <dimen name="shimmer_text_description_line_2">80dp</dimen>
+    <dimen name="shimmer_text_description_line_3">40dp</dimen>
+    <dimen name="shimmer_text_short_description">100dp</dimen>
+    <dimen name="shimmer_image_sample">100dp</dimen>
+    <dimen name="shimmer_text_height">20dp</dimen>
+    <dimen name="shimmer_text_margin">5dp</dimen>
+
+    <dimen name="shimmer_blogs_text_title">200dp</dimen>
+    <dimen name="shimmer_blogs_text_long_title">250dp</dimen>
+    <dimen name="shimmer_blogs_text_date">150dp</dimen>
+    <dimen name="shimmer_blogs_text_desc">200dp</dimen>
+    <dimen name="shimmer_blogs_image_height">150dp</dimen>
+    <dimen name="search_padding">10dp</dimen>
+    <dimen name="bio_height">96dp</dimen>
+    <dimen name="label_left_margin">25dp</dimen>
+    <dimen name="sp_eight">8dp</dimen>
+    <dimen name="sp_ten">10dp</dimen>
+    <dimen name="sp_thirty">30sp</dimen>
+    <dimen name="dp_forty_eight">48dp</dimen>
+    <dimen name="dp_seventy_two">72dp</dimen>
+    <dimen name="dp_sixty">60dp</dimen>
+
+    <dimen name="collaborator_spacing">50dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MHBESample</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="apply_for_coverage">Apply For Coverage</string>
+    <string name="get_an_estimate">Get An Estimate</string>
+    <string name="account_login">Account Login</string>
+    <string name="submit_documents">Submit Documents</string>
+    <string name="my_account_information">My Account Information</string>
+    <string name="view_update_app">View/Update My Application</string>
+    <string name="My_Notifications">My Notifications</string>
+    <string name="Get_Help">Get Help</string>
+    <string name="Information">Information</string>
+</resources>

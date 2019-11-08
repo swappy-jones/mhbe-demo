@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="home_header_color">#EEEEEE</color>
+
+    <color name="contact_conf_color_light">#aaf0592b</color>
+    <color name="contact_conf_color_lighter">#aafbd5ca</color>
+    <color name="inbox_conf_color_light">#aae68624</color>
+    <color name="inbox_conf_color_lighter">#aaf9e1c8</color>
+    <color name="info_conf_color_light">#aa1b75bb</color>
+    <color name="info_conf_color_lighter">#aac6dcee</color>
+    <color name="notices_conf_color_light">#aa6b963e</color>
+    <color name="notices_conf_color_lighter">#aadae5cf</color>
+    <color name="shop_conf_color_light">#aa2899b7</color>
+    <color name="shop_conf_color_lighter">#aac9e5ed</color>
+    <color name="verify_conf_color_light">#aa282561</color>
+    <color name="verify_conf_color_lighter">#aac9c8d7</color>
+</resources>
